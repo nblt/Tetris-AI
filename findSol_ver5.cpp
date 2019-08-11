@@ -466,7 +466,7 @@ int count_WS(int matrix[][10],int r_size)     //1126黄颖浩测试完毕，单�
     */
 }
 
-
+// test locally
 
 int main() {
     int  operation[2]={1,2};
@@ -500,6 +500,7 @@ int main() {
     	{0,1,1,0},
     	{1,1,0,0}
 	};
+	
 	int cube_next[4][4] = {
     	{0,0,0,0},
     	{0,0,0,0},
