@@ -1,2 +1,2 @@
 # Tetris-AI
-An ai considering the next step basing on Pierre Dellacherie algorithm.
+An ai considering the next step based on Pierre Dellacherie algorithm.
